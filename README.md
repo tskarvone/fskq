@@ -4,7 +4,7 @@ This repository contains the MATLAB codes for the preprint  "Fully symmetric ker
 
 # Usage
 
-Clone or download the repository and add `fskq` directory to your MATLAB search path. The three numerical experiments of the article (as well as some additional illustrations) are in the `examples` directrory. The file `demo.m` contains some simple examples that demonstrate how to use the MATLAB functions.
+Clone or download the repository and add `fskq` directory to your MATLAB search path. The three numerical experiments of the article (as well as some additional illustrations) are in the `examples` directory. The file `demo.m` contains some simple examples that demonstrate how to use the MATLAB functions.
 
 # Contributors
 
