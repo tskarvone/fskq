@@ -1,6 +1,6 @@
 # FSKQ
 
-This repository contains the MATLAB codes for the preprint  "Fully symmetric kernel quadrature" by Toni Karvonen and Simo Särkkä.
+This repository contains the MATLAB codes for the preprint  "Fully symmetric kernel quadrature" by [Toni Karvonen](https://users.aalto.fi/~karvont2/) and [Simo Särkkä](https://users.aalto.fi/~ssarkka/).
 
 Contact: toni.karvonen@aalto.fi
 
