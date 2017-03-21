@@ -2,6 +2,8 @@
 
 This repository contains the MATLAB codes for the preprint  "Fully symmetric kernel quadrature" by [Toni Karvonen](https://users.aalto.fi/~karvont2/) and [Simo Särkkä](https://users.aalto.fi/~ssarkka/).
 
+arXiv preprint: [https://arxiv.org/abs/1703.06359](https://arxiv.org/abs/1703.06359)
+
 Contact: toni.karvonen@aalto.fi
 
 # Usage
