@@ -89,7 +89,7 @@
   Us = fss_gen(us);
   wr = kqw_fss(Us, k, kmean); % The distinct weights
   % We can verify that the weights are computed correctly
-  % NOTE: this sometimes fails if the full kernel matrix becomes too badly condioned
+  % NOTE: this sometimes fails if the full kernel matrix becomes too badly conditioned
   X = cell2mat(Us);
   w = kqw(X, k, kmean);
   abs(sort(wr,'ascend') - uniquetol(w, 1e-3)) % Compute difference in distinct weights
