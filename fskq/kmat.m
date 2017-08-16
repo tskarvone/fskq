@@ -33,11 +33,12 @@ function K = kmat(X, k, isotropic)
     N = size(X, 2);
     K = zeros(N, N);
     for i = 1:N
-      for j = 1:N-i+1
+      for j = 1:i
         foo = k(X(:,i), X(:,j));
         K(i,j) = foo;
         K(j,i) = foo;
       end
+    end
   end
 
 end

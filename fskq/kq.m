@@ -23,7 +23,7 @@ function [Q, wce, w] = kq(Y, X, k, kmean, Ikmean, isotropic)
 %   - wce         RKHS worst-case error (i.e. standard deviation)
 %   - w           column vector of the weights
 
-% Toni Karvonen, 2017  
+% Toni Karvonen, 2017
 
   if ~exist('isotropic', 'var')
     isotropic = 'true';
