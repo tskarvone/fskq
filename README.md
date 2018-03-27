@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB codes for the article  "Fully symmetric kernel quadrature" by [Toni Karvonen](https://users.aalto.fi/~karvont2/) and [Simo Särkkä](https://users.aalto.fi/~ssarkka/).
 
-T. Karvonen and S. Särkkä (2018). SIAM Journal on Scientific Computing, 40(2), p. A697–A720.
+T. Karvonen and S. Särkkä (2018). SIAM Journal on Scientific Computing, 40(2):A697–A720.
 
 [https://doi.org/10.1137/17M1121779](https://doi.org/10.1137/17M1121779)
 
